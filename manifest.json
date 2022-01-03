@@ -1,0 +1,239 @@
+{
+  "minecraft": {
+    "version": "1.7.10",
+    "modLoaders": [
+      {
+        "id": "forge-10.13.4.1614",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Epic Proportition  Season 7",
+  "version": "Epic-Proportition-Season 7",
+  "author": "",
+  "files": [
+    {
+      "projectID": 229073,
+      "fileID": 2232170,
+      "required": true
+    },
+    {
+      "projectID": 225256,
+      "fileID": 2305574,
+      "required": true
+    },
+    {
+      "projectID": 59968,
+      "fileID": 2279900,
+      "required": true
+    },
+    {
+      "projectID": 227873,
+      "fileID": 2367311,
+      "required": true
+    },
+    {
+      "projectID": 227874,
+      "fileID": 2337326,
+      "required": true
+    },
+    {
+      "projectID": 229080,
+      "fileID": 2338151,
+      "required": true
+    },
+    {
+      "projectID": 227875,
+      "fileID": 2227584,
+      "required": true
+    },
+    {
+      "projectID": 222718,
+      "fileID": 2210434,
+      "required": true
+    },
+    {
+      "projectID": 354982,
+      "fileID": 2843836,
+      "required": true
+    },
+    {
+      "projectID": 75661,
+      "fileID": 2206928,
+      "required": true
+    },
+    {
+      "projectID": 353443,
+      "fileID": 2835779,
+      "required": true
+    },
+    {
+      "projectID": 229091,
+      "fileID": 2232301,
+      "required": true
+    },
+    {
+      "projectID": 53686,
+      "fileID": 2311135,
+      "required": true
+    },
+    {
+      "projectID": 79616,
+      "fileID": 2414535,
+      "required": true
+    },
+    {
+      "projectID": 229093,
+      "fileID": 2232268,
+      "required": true
+    },
+    {
+      "projectID": 336432,
+      "fileID": 2777303,
+      "required": true
+    },
+    {
+      "projectID": 232919,
+      "fileID": 2731636,
+      "required": true
+    },
+    {
+      "projectID": 55438,
+      "fileID": 2221679,
+      "required": true
+    },
+    {
+      "projectID": 237746,
+      "fileID": 2513048,
+      "required": true
+    },
+    {
+      "projectID": 257244,
+      "fileID": 2368390,
+      "required": true
+    },
+    {
+      "projectID": 229105,
+      "fileID": 2239204,
+      "required": true
+    },
+    {
+      "projectID": 237749,
+      "fileID": 2388794,
+      "required": true
+    },
+    {
+      "projectID": 236879,
+      "fileID": 2264123,
+      "required": true
+    },
+    {
+      "projectID": 222211,
+      "fileID": 2302312,
+      "required": true
+    },
+    {
+      "projectID": 237756,
+      "fileID": 2265750,
+      "required": true
+    },
+    {
+      "projectID": 227639,
+      "fileID": 3039937,
+      "required": true
+    },
+    {
+      "projectID": 222213,
+      "fileID": 3293859,
+      "required": true
+    },
+    {
+      "projectID": 223891,
+      "fileID": 2284380,
+      "required": true
+    },
+    {
+      "projectID": 65570,
+      "fileID": 2305573,
+      "required": true
+    },
+    {
+      "projectID": 59143,
+      "fileID": 2268883,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2283267,
+      "required": true
+    },
+    {
+      "projectID": 59413,
+      "fileID": 2218324,
+      "required": true
+    },
+    {
+      "projectID": 224770,
+      "fileID": 2268607,
+      "required": true
+    },
+    {
+      "projectID": 222896,
+      "fileID": 2221627,
+      "required": true
+    },
+    {
+      "projectID": 229060,
+      "fileID": 2338148,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 2278984,
+      "required": true
+    },
+    {
+      "projectID": 59216,
+      "fileID": 2218771,
+      "required": true
+    },
+    {
+      "projectID": 59621,
+      "fileID": 2256356,
+      "required": true
+    },
+    {
+      "projectID": 225179,
+      "fileID": 2462146,
+      "required": true
+    },
+    {
+      "projectID": 59489,
+      "fileID": 2692129,
+      "required": true
+    },
+    {
+      "projectID": 229067,
+      "fileID": 2232121,
+      "required": true
+    },
+    {
+      "projectID": 222838,
+      "fileID": 2279949,
+      "required": true
+    },
+    {
+      "projectID": 222907,
+      "fileID": 2228812,
+      "required": true
+    },
+    {
+      "projectID": 471277,
+      "fileID": 3276602,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
